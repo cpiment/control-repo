@@ -9,6 +9,7 @@ mod "puppetlabs/ntp",         '4.2.0'
 mod "ghoneycutt/ssh",         :latest
 mod "ghoneycutt/common",      :latest
 mod "puppetlabs/firewall",    :latest
+mod "example42/network",    :latest
 
 #EFEO
 
