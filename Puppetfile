@@ -7,6 +7,8 @@ mod "puppetlabs/stdlib",      '4.11.0'
 mod "puppetlabs/concat",      '2.1.0'
 mod "puppetlabs/ntp",         '4.2.0'
 mod "ghoneycutt/ssh",         :latest
+mod "ghoneycutt/common",      :latest
+mod "puppetlabs/firewall",    :latest
 
 #EFEO
 
